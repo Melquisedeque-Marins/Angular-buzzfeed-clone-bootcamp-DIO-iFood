@@ -35,6 +35,7 @@
     flex-wrap: wrap;
     justify-content: center;
     margin: auto;
+    margin-bottom: 20px;
 }
 
 .btn-option {
@@ -69,5 +70,7 @@
     padding: 30px;
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
 
 }
